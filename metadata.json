@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "resources": {
+    "fork_catalog.db.gz": {
+      "version": 1,
+      "sha256": "39737f82e5e262fdd74f567e7cfa638440a142410245ed16867750a0197ba009",
+      "size": 1127205,
+      "original_size": 7774208,
+      "github_repo": "lucasgertke11-bot/fork-catalog-data",
+      "gitlab_project_id": 83110945
+    },
+    "releases.tar.gz": {
+      "version": 2,
+      "sha256": "11b2aab6e204c6dbce77d7e9fcd51f96efa4718a247b4d25909e49d6ce57598e",
+      "size": 520578,
+      "original_size": 6144000,
+      "github_repo": "lucasgertke11-bot/releases-data",
+      "gitlab_project_id": 83110949
+    }
+  }
+}
