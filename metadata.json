@@ -40,8 +40,8 @@
     "sources.tar.gz": {
       "version": 1,
       "tag": "v0.0.1",
-      "sha256": "85cea451eec057fa7e734548ca3ba6d779ed5836a3f9de14b8394575ef0d7d8e",
-      "size": 45,
+      "sha256": "c38f1059ffbe62f8cf6a9b203387184d5a93ab65dc2c6e469c136c3355f73ff7",
+      "size": 3576269,
       "original_size": 0,
       "github_repo": "MakaiForger/makaiforger-sources",
       "gitlab_project_id": 83081384
@@ -54,6 +54,15 @@
       "original_size": 0,
       "github_repo": "MakaiForger/makaiforger-installer-api",
       "gitlab_project_id": 83101354
+    },
+    "game_dlls.db.gz": {
+      "version": 1,
+      "tag": "v0.0.1",
+      "sha256": "c6adfbb599b6f441c07854a06b71b1cc2a41bc978c66e58a4c2f133b27e37746",
+      "size": 2947,
+      "original_size": 20480,
+      "github_repo": "MakaiForger/makaiforger-game-dlls-data",
+      "gitlab_project_id": 83123076
     }
   }
 }
