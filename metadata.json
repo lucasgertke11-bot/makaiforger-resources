@@ -22,9 +22,9 @@
     "fork_catalog.db.gz": {
       "version": 1,
       "tag": "v0.0.1",
-      "sha256": "e6ccbb07b77df3cecc47a7c91bd90ff8db8ef8cf6a0dd6ab1bd0f15ca83fa663",
-      "size": 3324511,
-      "original_size": 15417344,
+      "sha256": "1cbbf2d469f893f199a93f12663a48bf2849615d4b1dc623615f942a1c10a57d",
+      "size": 35020,
+      "original_size": 319488,
       "github_repo": "MakaiForger/makaiforger-fork-catalog-data",
       "gitlab_project_id": 83110945
     },
